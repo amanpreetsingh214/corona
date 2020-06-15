@@ -14,12 +14,12 @@ body{
 p{
     margin-top: 250px ;
     color: white;
-    font-size: 2em;  
+    font-size: 4vw;  
 }
 a{
     padding: 35px;
     color: white;
-    font-size: 1em;
+    font-size: 2vw;
     text-decoration: none;
 }
 a:hover{
